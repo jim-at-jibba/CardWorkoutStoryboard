@@ -28,9 +28,9 @@ class CardSelectionVV: UIViewController {
         // stopButton.layer.cornerRadius = 8
         // restartButton.layer.cornerRadius = 8
         // rulesButton.layer.cornerRadius = 8
-        for button in Buttons {
-            button.layer.cornerRadius = 8
-        }
+//        for button in Buttons {
+//            button.layer.cornerRadius = 8
+//        }
     }
     
     override func viewDidDisappear(_ animated: Bool) {
